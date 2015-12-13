@@ -1,0 +1,20 @@
+*** RUNNING PRE-TURNIN TESTS ON 2015-11-05 23:00:20 CST ***
+* Language is Java
+
+* Running test #1
+* Arguments: skip/fewEvents.txt skip/query0.txt
++++ PASSED test #1
+
+* Running test #2
+* Arguments: skip/allEvents.txt skip/query1.txt
++++ PASSED test #2
+
+* Running test #3
+* Arguments: skip/allEvents.txt skip/query2.txt
++++ PASSED test #3
+
+* Running test #4
+* Arguments: skip/allEvents.txt skip/query3.txt
++++ PASSED test #4
+
+* Passed 4/4 tests

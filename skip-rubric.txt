@@ -1,0 +1,49 @@
+########################################################################
+# CSE 241 LAB 3 GRADING RUBRIC
+
+Repo Name (WUSTL key):a.bernstein
+
+Language used:Java
+
+Name of grader:Linxuan Yang
+
+OVERALL GRADE:100/100
+
+///////////////////////////////////////////////////////////////////////
+
+Lateness penalty (if any):
+
+///////////////////////////////////////////////////////////////////////
+
+###### PART 1 (70% total)
+
+### INSERT (13%)
+13/13
+
+### REMOVE (12%)
+12/12
+
+### FINDMOSTRECENT (12%)
+12/12
+
+### FINDRANGE (13%)
+13/13
+
+### TEST CASES (15%)
+15/15
+
+### WRITEUP (3%)
+3/3
+
+### CODING STYLE (2%)
+2/2
+
+######################################################################
+
+###### PART 2 (30%)
+
+# DYNAMICALLY RESIZING HEAD AND TAIL (15%)
+15/15
+
+# SINGLY-LINKED SKIP LIST (15%)
+15/15

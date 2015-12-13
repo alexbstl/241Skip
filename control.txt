@@ -1,0 +1,23 @@
+### CSE 241 Lab Autograding and Turn-in Control File
+
+### Lines beginning with '#' are ignored as comments.
+
+### Specify the implementation language for the lab. This must
+### correspond to the name of the subdirectory with the code for
+### your language. (If not specified, default is Java.)
+
+#language c++
+
+### Uncomment the following line to enable testing and feedback on
+### your lab from the autograder.
+
+#test
+
+### Uncomment the following line to force your lab to be turned in at
+### the next late turn-in deadline, overwriting the previous
+### turn-in. DO NOT USE THIS DIRECTIVE UNLESS YOU HAVE *ALREADY*
+### TURNED IN YOUR LAB AND WANT TO REPLACE WHAT WAS TURNED IN.  Once
+### the turn-in happens, this directive will be automatically
+### commented out.
+
+#forceturnin
